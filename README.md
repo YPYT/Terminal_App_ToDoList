@@ -18,7 +18,7 @@ You can also view your previous lists, and delete the lists if you require.
 
 1. ### **Displays the date along with the title**  
        
-   For example: `4/24`, `4th April`, `4月24日`, etc.  
+   For example: `4/24` etc.  
    
    The date obtained from the user will be displayed as follows.  
    ```
